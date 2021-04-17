@@ -17,6 +17,4 @@ public class SampleTest {
 		System.out.println("hi");
 		System.out.println("bye");
 	}
-	
-
 }
